@@ -1,0 +1,2 @@
+Student name: Ivan,
+Schedule: Tue, Thu - 20:00

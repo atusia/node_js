@@ -1,0 +1,2 @@
+Student name: Dima,
+Schedule: Tue, Thu - 18:00
